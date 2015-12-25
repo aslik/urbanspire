@@ -42,7 +42,7 @@ border-radius: 5px;
 
 }
 #header-container {
-    background-image: url("css/map2.png");
+    background-image: url("../photos/map2.png");
     background-size: contain;
 }
 
